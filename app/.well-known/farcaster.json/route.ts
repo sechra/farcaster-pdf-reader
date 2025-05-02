@@ -5,15 +5,15 @@ export async function GET() {
   const farcasterConfig = {
     accountAssociation: {
       header:
-        "eyJmaWQiOjE3OTc5LCJ0eXBlIjoiY3VzdG9keSIsImtleSI6IjB4MGMxNWE5QkVmRTg3RjY0N0IwMDNhMjI0MTY4NDYwMzYyODQ0M2Y4YiJ9",
+        "eyJmaWQiOjU5OTIyMywidHlwZSI6ImN1c3RvZHkiLCJrZXkiOiIweGJCMjgzNzFCM0IyYjE3NTU1QUVGYTA4ZjAxQjBhNjIzODlmMjQyNzMifQ",
       payload:
-        "eyJkb21haW4iOiJtb25hZC1taW5pYXBwLXRlbXBsYXRlLXNldmVuLnZlcmNlbC5hcHAifQ",
+        "eyJkb21haW4iOiJmYXJjYXN0ZXItcGRmLXJlYWRlLnZlcmNlbC5hcHAifQ",
       signature:
-        "MHgwYzY2NDdjZDhjOWJiY2JmYzg2NGIzZjVjYWVjY2ExMTdlOTY4ZGQwMWIzMmM0NGViMjU5ZDhlOGQyMzdhZTZiMDU1MmNmNWRiMDU1MDMwNTZmNTNhZmEwZDZlZTBlZmIyMmJmNDNmMDQ4NTdhMzk2NmY0YmMzODk2N2NlZDI5ZjFi",
+        "MHg4OGIyOWExMDMzZjg3Zjk2ZmE0MmY3Y2YyNDBjYWY0YTQ5N2Q0MWExMTA1NjE4MTczOTA0MjlhNzc2NTUwZDAzMGJlZGVjNTU4NjU2MzEyNjYwYzJiNzUwNTI0YjBlM2NiZTgxNGJkZTlhN2RhZGIxMDk2ODcyYTA5MGY2NzEzNDFi",
     },
     frame: {
       version: "1",
-      name: "Monad Farcaster MiniApp Template",
+      name: "PDFReader",
       iconUrl: `${APP_URL}/images/icon.png`,
       homeUrl: `${APP_URL}`,
       imageUrl: `${APP_URL}/images/feed.png`,
