@@ -1,0 +1,29 @@
+{
+    "name": "Farcaster PDF Reader",
+    "description": "A PDF reader mini app for Farcaster, integrated with Monad.",
+    "version": "1.0.0",
+    "author": "Your Name",
+    "homepage_url": "https://farcaster-pdf-reade.vercel.app/",
+    "permissions": [
+      "wallet-connect",
+      "read-write"
+    ],
+    "theme": {
+      "light": "light-theme",
+      "dark": "dark-theme"
+    },
+    "features": [
+      "PDF Viewer",
+      "Rotate Screen",
+      "Switch between Dark and Light Themes",
+      "Donate Button"
+    ],
+    "screenshots": [
+      "https://example.com/screenshot1.png",
+      "https://example.com/screenshot2.png"
+    ],
+    "links": {
+      "donate": "https://www.buymeacoffee.com/yourusername"
+    }
+  }
+  
