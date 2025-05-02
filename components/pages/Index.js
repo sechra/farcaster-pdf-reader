@@ -1,6 +1,6 @@
 import { useState, useRef } from "react";
 import { ethers } from "ethers";
-import './styles.css';
+import '../styles/styles.css';
 
 export default function Home() {
   const [walletAddress, setWalletAddress] = useState("");
