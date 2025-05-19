@@ -1,8 +1,8 @@
 {
     "name": "Farcaster PDF Reader",
-    "description": "A PDF reader mini app for Farcaster, integrated with Monad.",
+    "description": "A PDF reader mini app for Farcaster, integrated with Monad Testnet.",
     "version": "1.0.0",
-    "author": "Your Name",
+    "author": "sechra",
     "homepage_url": "https://farcaster-pdf-reade.vercel.app/",
     "permissions": [
       "wallet-connect",
